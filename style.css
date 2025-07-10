@@ -269,14 +269,14 @@ span{
 .service-card h3 {
         font-family: "OpenSans-Bold";
         font-size: 24px;
-        color: #FFC8FB;
+        color: #EE92C2;
         margin-bottom: 15px;
     }
         
 .service-card p {
         font-family: "OpenSans-Regular";
         font-size: 16px;
-        color: #FFC8FB;
+        color: #FF92C2;
         line-height: 1.6;
         margin-bottom: 25px;
 }
@@ -295,7 +295,7 @@ span{
     width: 120px;
     height: 45px;
     border-radius: 25px;
-    background: linear-gradient(135deg, #FFC8FB, #FFC8FB);
+    background: linear-gradient(135deg, #FFE4F3, #FFE4F3);
     border: none;
     cursor: pointer;
     transition: all 0.3s ease;
