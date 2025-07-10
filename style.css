@@ -3,19 +3,19 @@
     src: url("font/Lemon-Regular.ttf");
 }
 @font-face {
-    font-family: "Playwrite VN Guides", cursive;
-    src: url("font/OpenSans-Bold.ttf");
+    font-family:"OpenSans-Regular";
+    src: url("font/OpenSans-Regular.ttf");
 }
 @font-face {
-    font-family: "Playwrite VN Guides", cursive
-    src: url("font/OpenSans-SemiBold.ttf");
+    font-family:"OpenSans-Regular";
+    src: url("font/OpenSans-Regular.ttf");
 }
 @font-face {
     font-family:"OpenSans-Regular";
     src: url("font/OpenSans-Regular.ttf");
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Sunuwar&display=swap');
+@import url('https://https://fonts.google.com/specimen/Playwrite+VN+Guides');
 * {
     padding: 0;
     margin: 0;
