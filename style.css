@@ -44,7 +44,7 @@ header{
     align-items: center;
 }
 #nav-items li{
-    font-family:"Gabriela", serif;
+    font-family: "OpenSans-SemiBold";
     font-weight: 600;
     font-size: 18px;
     list-style: none;
@@ -80,7 +80,7 @@ span{
 }
 
 .hero-section p{
-    font-family:"Gabriela", serif;
+    font-family: "OpenSans-SemiBold";
     font-weight: 400;
     font-size: 18px;
     width: 309px;
@@ -88,7 +88,7 @@ span{
 }
 
 .hero-section button{
-    font-family:"Gabriela", serif;
+    font-family: "OpenSans-SemiBold";
     font-weight: 700;
     font-size: 15px;
     color: #EE959E;
@@ -127,7 +127,7 @@ span{
 }
 
 .about-content p {
-    font-family:"Gabriela", serif;
+    font-family: "OpenSans-SemiBold";
     font-size: 18px;
     color: #666;
     line-height: 1.8;
