@@ -101,7 +101,7 @@ span{
 
 .about-section {
     padding: 100px;
-    background: linear-gradient(135deg, ##FFB7CE 0%, #ffb7ce 100%);
+    background: linear-gradient(135deg, ##FFB7CE 100%, #ffb7ce 0%);
     min-height: 100vh;
     display: flex;
     align-items: center;
