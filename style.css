@@ -100,10 +100,6 @@ span{
     border: none;
 }
 
-.hero-image {
-    width: 100px;
-    height: 200px;
-}
 .about-section {
     padding: 100px;
     background: linear-gradient(135deg, ##FFB7CE 100%, #ffb7ce 0%);
