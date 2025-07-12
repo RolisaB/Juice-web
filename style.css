@@ -395,7 +395,7 @@ box-shadow: 0 0 10px rgba(239, 94, 65, 0.1);
 }
  
 .footer {
-    background: #0e3465d5;
+    background: #E08DAC;
     color: white;
     padding: 60px 0 0;
     }
@@ -422,19 +422,19 @@ box-shadow: 0 0 10px rgba(239, 94, 65, 0.1);
         font-family: "OpenSans-Bold";
         font-size: 20px;
         margin-bottom: 25px;
-        color: #ef5e41;
+        color: #FFCAD4;
         }
         
         .footer-logo h2 {
         font-size: 32px;
-        color: #ef5e41;
+        color: #FFCAD4;
         margin-bottom: 15px;
         }
         
         .footer-logo p {
         font-family: "OpenSans-Regular";
         font-size: 16px;
-        color: #bdc3c7;
+        color: #FFCAD4;
         line-height: 1.6;
         margin-bottom: 30px;
         }
@@ -481,7 +481,7 @@ box-shadow: 0 0 10px rgba(239, 94, 65, 0.1);
         }
         
         .footer-links a:hover {
-        color: #ef5e41;
+        color: #F6A5A2;
         }
         
         .contact-details p {
@@ -492,7 +492,7 @@ box-shadow: 0 0 10px rgba(239, 94, 65, 0.1);
         }
         
         .footer-bottom {
-        border-top: 1px solid #EFA9AE;
+        border-top: 1px solid #F6A5A2;
         padding: 30px 0;
         }
         
@@ -522,7 +522,7 @@ box-shadow: 0 0 10px rgba(239, 94, 65, 0.1);
         }
         
         .footer-bottom-links a:hover {
-        color: #ef5e41;
+        color: #F6A5A2;
         }
     
     
