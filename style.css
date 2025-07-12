@@ -89,7 +89,7 @@ span{
 }
 
 .hero-section button{
-    font-family: "OpenSans-SemiBold";
+    font-family: "OpenSans-Regular";
     font-weight: 700;
     font-size: 15px;
     color: #E55381;
@@ -128,7 +128,7 @@ span{
 }
 
 .about-content p {
-    font-family: "OpenSans-SemiBold";
+    font-family: "OpenSans-Regular";
     font-size: 18px;
     color: #666;
     line-height: 1.8;
@@ -170,7 +170,7 @@ span{
     }
         
 .feature-text {
-        font-family: "OpenSans-SemiBold";
+        font-family: "OpenSans-Regular";
         color: #333;
         font-size: 16px;
     }
