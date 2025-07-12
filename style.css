@@ -459,7 +459,7 @@ box-shadow: 0 0 10px rgba(239, 94, 65, 0.1);
         }
         
         .social-link:hover {
-        background: #ef5e41;
+        background: #F6A5A2;
         transform: translateY(-3px);
         box-shadow: 0 5px 15px rgba(239, 94, 65, 0.3);
         }
@@ -492,7 +492,7 @@ box-shadow: 0 0 10px rgba(239, 94, 65, 0.1);
         }
         
         .footer-bottom {
-        border-top: 1px solid #34495e;
+        border-top: 1px solid #EFA9AE;
         padding: 30px 0;
         }
         
