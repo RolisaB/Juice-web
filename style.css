@@ -16,6 +16,7 @@
 }
 
 @import url('fonts.googleapis.com/css2?family=Noto+Sans+Sunuwar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&family=Indie+Flower&display=swap');
 * {
     padding: 0;
     margin: 0;
@@ -80,7 +81,7 @@ span{
 }
 
 .hero-section p{
-    font-family: "Indie Flower";
+    font-family: "Indie Flower", cursive;
     font-weight: 400;
     font-size: 18px;
     width: 309px;
