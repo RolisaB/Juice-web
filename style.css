@@ -304,3 +304,225 @@ span{
         transform: translateY(-2px);
         box-shadow: 0 8px 20px rgba(239, 94, 65, 0.4);
         }
+.contact-section {
+    padding: 100px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    min-height: 100vh;
+}
+
+.contact-container {
+    display: flex;
+    gap: 80px;
+    max-width: 1200px;
+    margin: 0 auto;
+    align-items: flex-start;
+}
+
+.contact-content {
+    flex: 1;
+}
+
+.contact-form-container {
+    flex: 1;
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+    
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label {
+    font-family: "OpenSans-SemiBold";
+    color: #333;
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+font-family: "OpenSans-Regular";
+padding: 15px;
+border: 2px solid #e9ecef;
+border-radius: 10px;
+font-size: 16px;
+transition: all 0.3s ease;
+background: #f8f9fa;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+outline: none;
+border-color: #ef5e41;
+background: white;
+box-shadow: 0 0 10px rgba(239, 94, 65, 0.1);
+}
+    
+.form-group textarea {
+    resize: vertical;
+    min-height: 120px;
+}
+
+.submit-button {
+    font-family: "OpenSans-Bold";
+    font-weight: 700;
+    font-size: 16px;
+    color: #fff;
+    padding: 18px 40px;
+    border-radius: 50px;
+    background: linear-gradient(135deg, #ef5e41, #ff6b35);
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    align-self: flex-start;
+    }
+    
+.submit-button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 25px rgba(239, 94, 65, 0.4);
+}
+ 
+.footer {
+    background: #0e3465d5;
+    color: white;
+    padding: 60px 0 0;
+    }
+
+
+
+
+
+
+    .footer-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 100px;
+        }
+        
+        .footer-content {
+        display: grid;
+        grid-template-columns: 2fr 1fr 1fr 1.5fr;
+        gap: 50px;
+        margin-bottom: 50px;
+        }
+        
+        .footer-section h3 {
+        font-family: "OpenSans-Bold";
+        font-size: 20px;
+        margin-bottom: 25px;
+        color: #ef5e41;
+        }
+        
+        .footer-logo h2 {
+        font-size: 32px;
+        color: #ef5e41;
+        margin-bottom: 15px;
+        }
+        
+        .footer-logo p {
+        font-family: "OpenSans-Regular";
+        font-size: 16px;
+        color: #bdc3c7;
+        line-height: 1.6;
+        margin-bottom: 30px;
+        }
+        
+        .social-links {
+        display: flex;
+        gap: 15px;
+        }
+        
+        .social-link {
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        background: rgba(239, 94, 65, 0.1);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+        font-size: 18px;
+        transition: all 0.3s ease;
+        border: 2px solid transparent;
+        }
+        
+        .social-link:hover {
+        background: #ef5e41;
+        transform: translateY(-3px);
+        box-shadow: 0 5px 15px rgba(239, 94, 65, 0.3);
+        }
+        
+        .footer-links {
+        list-style: none;
+        }
+        
+        .footer-links li {
+        margin-bottom: 12px;
+        }
+        
+        .footer-links a {
+        font-family: "OpenSans-Regular";
+        color: #bdc3c7;
+        text-decoration: none;
+        font-size: 16px;
+        transition: color 0.3s ease;
+        }
+        
+        .footer-links a:hover {
+        color: #ef5e41;
+        }
+        
+        .contact-details p {
+        font-family: "OpenSans-Regular";
+        color: #bdc3c7;
+        margin-bottom: 10px;
+        font-size: 16px;
+        }
+        
+        .footer-bottom {
+        border-top: 1px solid #34495e;
+        padding: 30px 0;
+        }
+        
+        .footer-bottom-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        }
+        
+        .footer-bottom-content p {
+        font-family: "OpenSans-Regular";
+        color: #bdc3c7;
+        font-size: 14px;
+        }
+        
+        .footer-bottom-links {
+        display: flex;
+        gap: 30px;
+        }
+        
+        .footer-bottom-links a {
+        font-family: "OpenSans-Regular";
+        color: #bdc3c7;
+        text-decoration: none;
+        font-size: 14px;
+        transition: color 0.3s ease;
+        }
+        
+        .footer-bottom-links a:hover {
+        color: #ef5e41;
+        }
+    
+    
